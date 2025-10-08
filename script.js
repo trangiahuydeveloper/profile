@@ -1,8 +1,8 @@
 // Configuration Object
 const CONFIG = {
     USER: {
-        username: 'HUYDEV',
-        currentTime: '2025-06-08 07:47:42'
+        username: 'Tran Gia Huy',
+        currentTime: '2025-10-08 07:47:42'
     },
     PARTICLES: {
         count: 50,
@@ -369,3 +369,4 @@ document.addEventListener('DOMContentLoaded', () => {
     new LoadingScreen();
 
 });
+
