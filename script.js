@@ -18,7 +18,7 @@ const CONFIG = {
             'UI/UX Designer',
             'Creative Coder',
             'Digital Artist',
-            'Mỗi tội thiếu người iu:('
+            'Mỗi tội học k giỏi :('
         ],
         typeSpeed: 100,
         eraseSpeed: 50,
@@ -367,4 +367,5 @@ class FormAnimations {
 // Initialize Application
 document.addEventListener('DOMContentLoaded', () => {
     new LoadingScreen();
+
 });
