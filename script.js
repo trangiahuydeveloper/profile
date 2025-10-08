@@ -14,11 +14,9 @@ const CONFIG = {
     },
     TYPING: {
         texts: [
-            'Full Stack Developer',
-            'UI/UX Designer',
-            'Creative Coder',
-            'Digital Artist',
-            'Mỗi tội học k giỏi :('
+            'C# Developer | ImGui Overlay Maker',
+            'AI Engineer',
+            'Creative C# UI/UX Designer | ImGui Artist',
         ],
         typeSpeed: 100,
         eraseSpeed: 50,
@@ -369,4 +367,5 @@ document.addEventListener('DOMContentLoaded', () => {
     new LoadingScreen();
 
 });
+
 
